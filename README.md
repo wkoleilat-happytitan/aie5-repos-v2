@@ -5,16 +5,17 @@ AI Engineering refers to the industry-relevant skills that data science and engi
 In practice, this requires understanding both prototyping and production deployments.
 
 During the *prototyping* phase, Prompt Engineering, [Retrieval Augmented Generation (RAG)](https://www.youtube.com/playlist?list=PLrSHiQgy4VjFlWgcLHatJCBgfeE8smVyP), and [Fine-Tuning](https://www.youtube.com/playlist?list=PLrSHiQgy4VjGMzyXsSlvN-TjPaqFFsAGP) are all necessary tools to be able to understand and leverage. Prototyping includes:
-- Building RAG Applications
+- Building with Agent and Multi-Agent Frameworks
 - Fine-Tuning LLMs & Embedding Models
-- Building Agent/Reasoning Applications
-- LLM Application Deployment
+- Building Agent Applications
+- Deploying LLM Prototype Applications to Users
 
 When *productionizing* LLM application prototypes, there are many important aspects ensuring helpful, harmless, honest, reliable, and scalable solutions for your customers or stakeholders. Productionizing includes:
-- RAG Evaluation and Improvement
-- Monitoring and Visibility Tooling
-- Efficient Inference and Serving
-- Scaling LLM Applications
+- Evaluating RAG and Agent Applications
+- Improving Search and Retrieval Pipelines for Production
+- Monitoring Production KPIs for LLM Applications
+- Setting up Inference Servers for LLMs and Embedding Models
+- Building LLM Applications with Scalable, Production-Grade Components
 
 This bootcamp builds on our two previous courses, [LLM Engineering](https://maven.com/aimakerspace/llm-engineering) and [LLM Operations](https://maven.com/aimakerspace/llmops) 👇
 
