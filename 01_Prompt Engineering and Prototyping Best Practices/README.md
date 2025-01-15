@@ -9,7 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| |  |  |  | You are here! | [Session 1 Assignment: Vibe Check]([https://docs.google.com/forms/d/e/1FAIpQLSfgnZ6YtPB1eSMMjUP3Wejw-bH2XgN4Kwtg0mwJr5VccHvq8A/viewform?usp=dialog](https://forms.gle/4VVx9rGrK9gqcZ8S9))  |
+| |  |  |  | You are here! | [Session 1 Assignment: Vibe Check](https://forms.gle/4VVx9rGrK9gqcZ8S9)|
 
 ### Assignment
 
