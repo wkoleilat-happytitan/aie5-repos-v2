@@ -4,7 +4,7 @@ AI Engineering refers to the industry-relevant skills that data science and engi
 
 In practice, this requires understanding both prototyping and production deployments.
 
-During the *prototyping* phase, Prompt Engineering, [Retrieval Augmented Generation (RAG)](https://www.youtube.com/playlist?list=PLrSHiQgy4VjFlWgcLHatJCBgfeE8smVyP), and [Fine-Tuning](https://www.youtube.com/playlist?list=PLrSHiQgy4VjGMzyXsSlvN-TjPaqFFsAGP) are all necessary tools to be able to understand and leverage. Prototyping includes:
+During the *prototyping* phase, Prompt Engineering, Retrieval Augmented Generation (RAG), Agents, and Fine-Tuning are all necessary tools to be able to understand and leverage. Prototyping includes:
 1. Building RAG Applications
 2. Building with Agent and Multi-Agent Frameworks
 3. Fine-Tuning LLMs & Embedding Models
