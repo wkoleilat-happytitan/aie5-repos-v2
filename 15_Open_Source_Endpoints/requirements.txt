@@ -1,0 +1,6 @@
+langchain-huggingface
+langchain-community
+faiss-cpu
+langchain-core
+langchain_text_splitters
+numpy
