@@ -9,7 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 17: Pre-Work](https://www.notion.so/Session-17-On-Prem-Agents-189cd547af3d802fafa0ca9e2dd019fb?pvs=4#189cd547af3d8191b3aecc4d9b33240a)| [Session 17: On-Prem Agents](https://www.notion.so/Session-17-On-Prem-Agents-189cd547af3d802fafa0ca9e2dd019fb) | Coming Soon! |Coming Soon! | You Are Here! | Coming Soon! | [AIE5 Feedback 3/11](https://forms.gle/w2AsgaueLGhajCG39) |
+| [Session 17: Pre-Work](https://www.notion.so/Session-17-On-Prem-Agents-189cd547af3d802fafa0ca9e2dd019fb?pvs=4#189cd547af3d8191b3aecc4d9b33240a)| [Session 17: On-Prem Agents](https://www.notion.so/Session-17-On-Prem-Agents-189cd547af3d802fafa0ca9e2dd019fb) | [Recording](https://us02web.zoom.us/rec/share/oMFpWAuAsICf9Le6dlvAo8s8SUFypBsOQ-PUmbzurAX2ihW-ZaqpKaUGxsean-Hq.5ji_3oLi03Ad_3KF) (@^XWJ897) |[Session 17: On-Prem Agents](https://www.canva.com/design/DAGhcFMMMCw/BR7lNyu2NA1FfDI2-WaeJg/edit?utm_content=DAGhcFMMMCw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You Are Here! | [Session 17 Assignment: On-Prem Agents](https://forms.gle/uKUmy6KhvqSkn6mm8) | [AIE5 Feedback 3/11](https://forms.gle/w2AsgaueLGhajCG39) |
 
 # Build 🏗️
 
