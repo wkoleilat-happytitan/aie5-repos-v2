@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-## <h1 align="center" id="heading">Week 10, Day 2: Inference Optimization Through Quantization</h1>
+## <h1 align="center" id="heading">Session 18: Inference Optimization Through Quantization</h1>
 
 # Build 🏗️
 
